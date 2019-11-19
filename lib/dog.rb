@@ -4,6 +4,7 @@ class Dog
   def initialize(dog_name, breed= nil)
     @name = dog_name
     @breed ||= breed
+
   end 
   
 end 
