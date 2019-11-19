@@ -15,3 +15,4 @@ def initialize(dog_name, breed= "Mutt")
  end 
   
 end 
+Dog.breed('hello')
