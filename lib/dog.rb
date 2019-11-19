@@ -6,7 +6,7 @@ def initialize(dog_name, breed= "Mutt")
     @breed = breed
     end 
   
- def breed= (breed= "Mutt")
+ def breed= (breed)
  end 
   
 end 
