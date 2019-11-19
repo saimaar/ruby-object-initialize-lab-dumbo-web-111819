@@ -17,3 +17,4 @@ def initialize(dog_name, breed= "Mutt")
 end 
 
 fido = Dog.new("fido", "dalmamtion")
+p fido
