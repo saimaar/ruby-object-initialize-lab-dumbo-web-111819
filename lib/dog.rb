@@ -15,4 +15,4 @@ def initialize(dog_name, breed= "Mutt")
  end 
   
 end 
-Dog.breed('hello')
+puts Dog.breed('hello')
