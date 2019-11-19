@@ -9,5 +9,9 @@ def initialize(dog_name, breed= "Mutt")
  def breed= (breed_new)
    @breed = breed_new
  end 
+ 
+ def breed 
+   @breed
+ end 
   
 end 
